@@ -41,7 +41,7 @@ template = "bootstrap"
 
 ; (optional) info text to display
 ; use single, instead of double quotes for HTML attributes
-info = "<a href='https://github.com/PrivateBin/PrivateBin'>See GitHub page</a>. This PrivateBin instance provides secure temporary storage for users of <a href='https://github.com/tebelorg/RPA-Python'>Python rpa package</a>."
+info = "<a href='https://github.com/PrivateBin/PrivateBin'>See details</a>. This instance provides secure temporary storage for users of Python <a href='https://github.com/tebelorg/RPA-Python'>rpa package</a>."
 
 ; (optional) notice to display
 ; notice = "Secure temporary storage for Python rpa package."
