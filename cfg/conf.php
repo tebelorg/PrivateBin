@@ -12,7 +12,7 @@ name = "PrivateBin"
 ; basepath = ""
 
 ; enable or disable the discussion feature, defaults to true
-discussion = false
+discussion = true
 
 ; preselect the discussion feature, defaults to false
 opendiscussion = false
